@@ -1,6 +1,3 @@
-/* html{
-  zoom:125%;
-} */
 body{
   margin: 0;
   text-align: center;
@@ -122,13 +119,3 @@ hr {
   background-image: linear-gradient(to bottom, #44A1A0, #78CDD7);
   text-decoration: none;
 }
-
-
-/*#AEE5D8
-#0D5C63
-#FFFFFA
-#44A1A0
-#78CDD7
-#247B7B
-#11999E
-#66BFBF*/
